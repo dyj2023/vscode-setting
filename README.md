@@ -1,2 +1,3 @@
-# vscode-setting
-vscode setting json
+# vscode-settings
+
+[`.vscode/settings.json`](./.vscode/settings.json)
